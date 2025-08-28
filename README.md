@@ -46,4 +46,4 @@ Two CSV reports are generated:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Basant-abdelnaser/Excel-Graph-Similarity-Analyzer.git
