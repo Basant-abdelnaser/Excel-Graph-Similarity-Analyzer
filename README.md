@@ -6,7 +6,7 @@ Results are exported as detailed **CSV reports** containing similarity statistic
 
 ---
 
-## 🚀 Features
+## Features
 -  **Excel Parsing:** Extracts file-pair data using **NPOI** (supports `.xlsx` and `.xls` formats).  
 -  **Graph Construction:** Represents file similarity as an undirected graph.  
 -  **Connectivity Detection:** Uses **BFS** to detect connected components.  
